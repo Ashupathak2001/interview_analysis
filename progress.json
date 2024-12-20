@@ -11,6 +11,11 @@
             "question": "Tell me about yourself.",
             "score": 66.67,
             "feedback": "Your response has a neutral tone. Adding enthusiasm or positivity can make your answers more engaging. Your response is decent but could benefit from more specific details and a structured approach. Facial expressions could not be analyzed. Ensure your face is clearly visible during the session."
+        },
+        {
+            "question": "Tell me about yourself.",
+            "score": 83.33,
+            "feedback": "Great job maintaining a positive tone! This creates a strong impression during interviews. Excellent response! It's well-detailed and demonstrates a clear understanding of the topic. Facial expressions could not be analyzed. Ensure your face is clearly visible during the session."
         }
     ]
 }
