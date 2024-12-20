@@ -21,4 +21,4 @@ wave>=0.0.2
 
 
 # Download models:
-# python -m spacy download en_core_web_md
+python -m spacy download en_core_web_md
