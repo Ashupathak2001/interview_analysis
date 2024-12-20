@@ -1,0 +1,6 @@
+haenv/
+__pycache__/
+*.pyc
+*.env
+*.streamlit
+*respones.txt

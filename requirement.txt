@@ -1,0 +1,15 @@
+streamlit>=1.30.0
+transformers>=4.36.0
+torch>=2.1.0
+scipy>=1.11.3
+spacy>=3.7.2
+psycopg2-binary>=2.9.9
+SQLAlchemy>=2.0.23
+python-dotenv>=1.0.0
+pandas>=2.1.4
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13
+
+
+# Download models:
+# python -m spacy download en_core_web_trf
