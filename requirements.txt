@@ -12,13 +12,8 @@ textblob>=0.17.1
 cohere>=4.0.0
 plotly>=5.18.0
 
-
-
 # Audio processing
 wave>=0.0.2
 
-
-
-
-# Download models:
-python -m spacy download en_core_web_md
+# ML model for spaCy
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.0/en_core_web_md-3.7.0-py3-none-any.whl
