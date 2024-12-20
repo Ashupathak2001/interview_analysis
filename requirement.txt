@@ -12,4 +12,4 @@ pyaudio>=0.2.13
 
 
 # Download models:
-# python -m spacy download en_core_web_trf
+# python -m spacy download en_core_web_md
